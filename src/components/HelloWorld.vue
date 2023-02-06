@@ -1,6 +1,10 @@
 <template>
 
-<div class="buttons">
+
+
+  <h1>{{ msg }}</h1>
+
+  <div class="buttons">
 <button data-duplicate-btn>Duplicate
 <button data-delete-btn>Delete last card
 <button data-title-btn>Change Title
@@ -25,8 +29,6 @@ Details</button>
       </div>
     </details>
  <div>
-
-  <h1>{{ msg }}</h1>
 
   <p>
     <a href="https://vitejs.dev/guide/features.html" target="_blank">

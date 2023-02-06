@@ -20,7 +20,6 @@ import HelloWorld from './components/HelloWorld.vue'
   margin-top: 60px;
 }
 
-
 .wrapper {
   width: 400px;
   border: 4px solid green;
