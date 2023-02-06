@@ -19,7 +19,7 @@ import HelloWorld from './components/HelloWorld.vue'
   color: #2c3e50;
   margin-top: 60px;
 }
-</style>
+
 
 .wrapper {
   width: 400px;
@@ -94,3 +94,5 @@ button {
     display: none;
   }
 }
+
+</style>
